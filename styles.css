@@ -4,7 +4,7 @@ body {
     justify-content: center;
     height: 100vh;
     align-items: center;
-    background-color: #FFF9BF;
+    background-color: #D4F6FF;
     font-family: sans-serif;
   }
   
@@ -27,7 +27,7 @@ body {
   .btn::before {
     content: "";
     position: absolute;
-    background-color: #F0C1E1;
+    background-color: #CB9DF0;
     width: 0;
     height: 0;
     left: var(--xPos);
